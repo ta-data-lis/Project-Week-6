@@ -20,7 +20,7 @@ The idea behind the question „will my next phone be from space?“ was arised 
 
 <a name="hypotheses-/-questions"></a>
 
-## Hypotheses / Questions
+## Questions
 
 1. Analyse the occurrence of rare earth in the world and if there are any associated conflicts
 
@@ -31,10 +31,15 @@ The idea behind the question „will my next phone be from space?“ was arised 
 
 ## Dataset
 U.S. Geological Survey Database | CSV
+
 https://www.sciencebase.gov/catalog/
+
 List of private space companies | Web Scraping | HTML
+
 https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies
+
 Budget of each government space programs  | Web Scraping | HTML
+
 https://en.wikipedia.org/wiki/List_of_government_space_agencies
 
 [Dataset]() 
@@ -43,10 +48,15 @@ https://en.wikipedia.org/wiki/List_of_government_space_agencies
 
 ## Workflow
 Find an interesting topic
+
 Data research
+
 Data cleaning
+
 Data analysing
+
 Data visualization
+
 Creating a presentation and report with outcome
 
 <a name="organization"></a>
