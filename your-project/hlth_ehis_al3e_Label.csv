@@ -1,0 +1,77 @@
+"DATASET: Frequency of heavy episodic drinking by sex, age and educational attainment level [hlth_ehis_al3e]"
+
+"LAST UPDATE: 21.03.19 15:24:37"
+
+"EXTRACTION DATE: 12.09.19 13:41:52"
+
+"SOURCE OF DATA: Eurostat"
+
+"FREQUENC"
+"At least once a week"
+"Every month"
+
+"GEO"
+"European Union - 28 countries"
+"Belgium"
+"Bulgaria"
+"Czechia"
+"Denmark"
+"Germany (until 1990 former territory of the FRG)"
+"Estonia"
+"Ireland"
+"Greece"
+"Spain"
+"Croatia"
+"Italy"
+"Cyprus"
+"Latvia"
+"Lithuania"
+"Luxembourg"
+"Hungary"
+"Malta"
+"Austria"
+"Poland"
+"Portugal"
+"Romania"
+"Slovenia"
+"Slovakia"
+"Finland"
+"Sweden"
+"United Kingdom"
+"Iceland"
+"Norway"
+"Turkey"
+
+"UNIT"
+"Percentage"
+
+"TIME"
+"2014"
+
+"ISCED11"
+"All ISCED 2011 levels "
+
+"SEX"
+"Total"
+
+"AGE"
+"Total"
+
+"No footnotes available"
+
+"Available flags:"
+"b","break in time series"
+"c","confidential"
+"d","definition differs, see metadata"
+"e","estimated"
+"f","forecast"
+"n","not significant"
+"p","provisional"
+"r","revised"
+"s","Eurostat estimate"
+"u","low reliability"
+"z","not applicable"
+
+"Special value:"
+":","not available"
+
