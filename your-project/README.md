@@ -24,7 +24,9 @@ The idea behind the question „will my next phone be from space?“ was arised 
 
 1. Analyse the occurrence of rare earth in the world and if there are any associated conflicts
 
-2. Is there any governmental effort for space mining?
+2. Did the race to space already started?
+
+3. Is there any governmental effort for space mining?
 
 
 <a name="dataset"></a>
