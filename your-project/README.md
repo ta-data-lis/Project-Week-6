@@ -7,7 +7,7 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-/-questions)
+- [Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
@@ -68,11 +68,18 @@ For organization I used Trello.
 
 ## Links
 
-[Repository](https://github.com/LindaRit/Project-Week-4/edit/master/your-project)  
-[Source](https://www.sciencebase.gov/catalog/)  
-[Source](https://pubs.usgs.gov/of/2017/1041/ofr20171041.pdf)
-[Source](https://www.forbes.com/sites/cognitiveworld/2019/05/13/the-race-to-mine-space/#231992a91a70)
-[Source](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
-[Source](https://en.wikipedia.org/wiki/List_of_government_space_agencies)
-[Source](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Mini_Bee_Prototype/)
+[Repository](https://github.com/LindaRit/Project-Week-4/edit/master/your-project) 
+
+[Source | Rare earth occurrence](https://www.sciencebase.gov/catalog/)  
+
+[Source | Space mining](https://pubs.usgs.gov/of/2017/1041/ofr20171041.pdf)
+
+[Source | race-to-space](https://www.forbes.com/sites/cognitiveworld/2019/05/13/the-race-to-mine-space/#231992a91a70)
+
+[Source | private space companies](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
+
+[Source | government space agencies](https://en.wikipedia.org/wiki/List_of_government_space_agencies)
+
+[Source | NASA Mission](https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Mini_Bee_Prototype/)
+
 [Trello](https://trello.com/b/n6Pqk9TE/project-4)  
