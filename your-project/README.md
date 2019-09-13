@@ -48,3 +48,4 @@ Include the links to your repository, slides and trello. Feel free to include an
 [Repository](https://github.com/naivm/Project-Week-4)  
 [Slides](https://docs.google.com/presentation/d/1z_EGfilJ4JgHUk9gc5BN-rNUqGfoC-3kLc7IqhUyTWQ/edit?usp=sharing)  
 [Trello](https://trello.com/b/rU0gMnbU/project-4)  
+[Report](https://docs.google.com/document/d/12KOwntaeFNqo9jY7PnqFfhHbjJSy9b4C4unfZEWNHDw/edit?usp=sharing)
