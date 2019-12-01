@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.DS_Store
+
+.Electric_Consumption_And_Cost__2010_-_March_2019_.csv
