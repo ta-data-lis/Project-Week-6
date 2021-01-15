@@ -1,1 +1,3 @@
-Archive
+Archive/*
+.gitignore
+.DS_Store
