@@ -1,9 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
-
-*[Your Cohort, Campus & Date]*
+# Return on Street Performance in Lisbon
+*Uli*
+*Ironhack Lisbon Nov 20th 2020*
 
 ## Content
 - [Project Description](#project-description)
