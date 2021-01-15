@@ -1,8 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Return on Street Performance in Lisbon
-*Uli*
-*Ironhack Lisbon Nov 20th 2020*
+*by Uli @ Ironhack Lisbon Nov 20th 2020*
 
 ## Content
 - [Project Description](#project-description)
