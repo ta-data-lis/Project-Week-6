@@ -14,18 +14,28 @@
 <a name="project-description"></a>
 
 ## Project Description
-My neighbor in Lisbon was performing Flamenco dances in the streets of Lisbon. The project was about testing some hypotheses regarding what drives the return of a  street performaner.
+My neighbor in Lisbon performed Flamenco dances in the streets of Lisbon. The project was about testing some hypotheses regarding what drives the return of a  street performaner.
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+- Old individual men donate more?
+- Gender 'study' (male vs. female vs. couples).
+- Number of stops has a positive effect on return?
+- Location matters?
+- Songs matter?
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
-
+The dataset contains 50 observations including two outliers of:
+- 6 groups (time slots of 20 min each)
+- 2 locations [Baixa-Chiado, Praça do Comércio]
+- Genders [Male, Female, Couples]
+- Individuals [True/False]
+- Age Group [25-49, 50+]
+- Songs (4 out of 5 songs)
+- Return in EUR
 [Dataset]() 
 
 <a name="workflow"></a>
