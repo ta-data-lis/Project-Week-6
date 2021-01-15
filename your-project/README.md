@@ -14,7 +14,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+My neighbor in Lisbon was performing Flamenco dances in the streets of Lisbon. The project was about testing some hypotheses regarding what drives the return of a  street performaner.
 
 <a name="hypotheses-/-questions"></a>
 
