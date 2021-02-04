@@ -1,50 +1,14 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+Content:
 
-# Title of My Project
-*[Your Name]*
+> code:
+	>font: some code I had to implement in order to be able to plot the arrows for the waves graphs.
+	>huricanes_analysis.ipynb (source kaggle)
+	>waves_analysis.ipynb: here I basically change the name of the file loaded depending on which wave I want to work on (source: Hydrographic Institute, Portuguese Agency for Environment (APA)).
 
-*[Your Cohort, Campus & Date]*
+> data sets:
+	>atlantic_Tsunami source events.csv
+	>FLE0114.TXT & FLE0214.TXT: these are just two example files from the buoy data (the data was given I was not allowed to share). Each file represents a month (FLEMMYY, M for month, Y for year). In the waves_analysis.ipynb, the first cell, in comment, explains what is each columns in this FLEMMYY.TXT files.
 
-## Content
-- [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-/-questions)
-- [Dataset](#dataset)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+> report.pdf
 
-<a name="project-description"></a>
-
-## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
-
-<a name="hypotheses-/-questions"></a>
-
-## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
-
-<a name="dataset"></a>
-
-## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
-
-[Dataset]() 
-
-<a name="workflow"></a>
-
-## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
-<a name="organization"></a>
-
-## Organization
-How did you organize yourself? Did you use any tools?
-
-<a name="links"></a>
-
-## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+> slide.pptx
