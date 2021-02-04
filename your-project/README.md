@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Healthy and Wealthy?
+*Miguel Vian*
 
-*[Your Cohort, Campus & Date]*
+*Data Squad 21 Lisbon 13/09/19*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,35 +16,36 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+Correlating health outcomes with income inequality in Europe. Using alcohol consumption as a proxy for health.
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+Are inequal coutries less Healthy? Are wealthy people in unequal coutries worse than poor people in equal countries?
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+Data sets removed from Eurostat
 
 [Dataset]() 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+Data collection --> Data cleaning --> Data visualization --> Correlate data --> Analisys --> Suggestions for imrovement
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+Trello 
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/naivm/Project-Week-4)  
+[Slides](https://docs.google.com/presentation/d/1z_EGfilJ4JgHUk9gc5BN-rNUqGfoC-3kLc7IqhUyTWQ/edit?usp=sharing)  
+[Trello](https://trello.com/b/rU0gMnbU/project-4)  
+[Report](https://docs.google.com/document/d/12KOwntaeFNqo9jY7PnqFfhHbjJSy9b4C4unfZEWNHDw/edit?usp=sharing)
