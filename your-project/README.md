@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Exploring the 1000 Most Popular Movies on IMDB from 2006 to 2016
+*Ana André*
 
-*[Your Cohort, Campus & Date]*
+*Data Squad 21, Lisbon 13.09.2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,35 +16,38 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+For this project, I chose to analyze an IMDB dataset with 1000 movies records from 2006 to 2016.
+I picked this topic because there has been many discussion on whether online movies aggregator databases can affect a movie's revenue or not. Also, because I love movies.
+Much has been stated about the relation between a movie genre and its gross box office so I went for 3 other relationships: rating vs revenue, rating vs votes and revenue vs votes.
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+The main questions are:
+- Do higher ratings mean higher revenue?
+- Do more votes mean higher rating?
+- Are higher-grossing movies watchers more prone to vote?
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
-
-[Dataset]() 
+I got my dataset from Kagle, here: 
+[Dataset](https://www.kaggle.com/PromptCloudHQ/imdb-data) 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+Long story short: I started with a 1000 records dataset and after some data cleaning I ended up with 756 records. After, I perform some exploratory data analysis to have a deeper knowledge of my data.
+Next, I performed some statistical analysis in search for correlations. Finally, I did some visualizations and drew some conclusions.
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+I used Trello to lay out a plan and keep track of all the actions I needed to perform to have the project ready on time.
 
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Ana-Andre/Project-Week-4)  
+[Slides](https://www.canva.com/design/DADlSes2lSw/EQwGN7iok2_0vJNTayvIQA/view?utm_content=DADlSes2lSw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
+[Trello](https://trello.com/b/uWFKkLV2/project-4)  
