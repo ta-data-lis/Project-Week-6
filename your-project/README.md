@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Title of My Project : What motivates people to buy or not buy water bottles?
+*[Lucie]* 
 
-*[Your Cohort, Campus & Date]*
+*[DAFT MAY 2021]*
 
 ## Content
 - [Project Description](#project-description)
@@ -17,6 +17,8 @@
 
 ## Project Description
 Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+
+
 
 <a name="hypotheses-/-questions"></a>
 
